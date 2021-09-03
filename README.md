@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @dinta
-- 👀 I’m interested in artificial intelligence
-- 🌱 I’m currently learning Physics
 - 📫 Contact me - alifsyaifuddin133@gmail.com
 
 <!---
